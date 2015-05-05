@@ -17,4 +17,7 @@ Below is list of features of the MCT Popup Opt-in Form:
 
 #5. Supports Any Device
 
-Extra Text hide on Smartphones while user is typing.
+Hide extra text on Smartphones while user is typing.
+#6. Exit-Intent Technology
+
+#7. Slide-in Scroll Trigger Box
