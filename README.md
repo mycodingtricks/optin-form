@@ -1,6 +1,8 @@
 # optin-form
 This is a Popup Scubscription Form.
 
+View Details : http://mycodingtricks.com/html5/stylish-newsletter-email-signup-form-with-css-and-jquery/
+
 #Features of Popup Opt-in Form:
 
 Below is list of features of the MCT Popup Opt-in Form:
